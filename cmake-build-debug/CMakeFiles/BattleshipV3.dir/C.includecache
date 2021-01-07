@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/edtom/Documents/UAlbany/CSI 333 Prgm HardwareSoftward Interface/Project/BattleshipV3/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+time.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+
